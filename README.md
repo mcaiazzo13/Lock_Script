@@ -7,3 +7,4 @@ In the next step i'll try making a random modification.
 You need :
 1. scrot
 2. i3lock
+3. imageMagick (convert)
