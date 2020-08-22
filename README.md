@@ -10,4 +10,7 @@ You need :
 3. imageMagick (convert)
 
 
-![1](https://user-images.githubusercontent.com/42116669/90951812-89e89000-e45e-11ea-9e2b-7a6b6fe17c84.png)
+![BEFORE](https://user-images.githubusercontent.com/42116669/90951812-89e89000-e45e-11ea-9e2b-7a6b6fe17c84.png)
+
+
+![AFTER](https://user-images.githubusercontent.com/42116669/90951819-9ff65080-e45e-11ea-985e-4ba0cdb73734.jpeg)
